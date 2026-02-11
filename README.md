@@ -4,15 +4,15 @@
 
 📍 Varanasi, India  
 📧 shubhjais.in@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shubhamjaiswal2004/) • [Portfolio](https://shubhjais.in)
+🔗 [LinkedIn](https://www.linkedin.com/in/shubhamjaiswal2004/) 
 
 ---
 
 ## 🛠️ **Technical Skills**
-- **Languages:** Python, SQL, R
+- **Languages:** Python, SQL
 - **Data Science:** Machine Learning, Predictive Modeling, EDA, Statistics
 - **Tools:** Jupyter Notebook, Pandas, NumPy, Scikit-learn, Git
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL
 - **Visualization:** Matplotlib, Seaborn, Plotly
 
 ---
@@ -40,13 +40,10 @@ Working on new Data Science projects! Stay tuned.
 ## 📫 **Let's Connect**
 - 💼 LinkedIn: [shubhamjaiswal2004](https://www.linkedin.com/in/shubhamjaiswal2004/)
 - 📧 Email: shubhjais.in@gmail.com
-- 🌐 Portfolio: [shubhjais.in](https://shubhjais.in)
-
 ---
 
 ## 🎯 **Currently Learning**
 - Advanced Machine Learning Algorithms
-- Mathematics for ML
 - Big Data Technologies
 - Cloud Platforms (AWS/GCP)
 
