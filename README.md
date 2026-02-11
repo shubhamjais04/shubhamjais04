@@ -4,16 +4,22 @@
 
 📍 Varanasi, India  
 📧 shubhjais.in@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shubhamjaiswal2004/)
+🔗 [LinkedIn](https://www.linkedin.com/in/shubhamjaiswal2004/) 
+---
+
+## 🏆 **GitHub Trophies**
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shubhamjais04&theme=radical&no-frame=true&row=2&column=4)
 
 ---
 
 ## 🛠️ **Technical Skills**
-- **Languages:** Python, SQL
-- **Data Science:** Machine Learning, Predictive Modeling, EDA, Statistics
-- **Tools:** Jupyter Notebook, Pandas, NumPy, Scikit-learn, Git
-- **Databases:** MySQL
-- **Visualization:** Matplotlib, Seaborn, Plotly
+
+**Languages:** Python, SQL
+**Data Science:** Machine Learning, Predictive Modeling, EDA, Statistics  
+**Tools:** Jupyter Notebook, Pandas, NumPy, Scikit-learn, Git  
+**Databases:** MySQL
+**Visualization:** Matplotlib, Seaborn, Plotly
 
 ---
 
@@ -30,22 +36,28 @@ Working on new Data Science projects! Stay tuned.
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 **Activity & Contributions**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamjais04&show_icons=true&theme=radical&hide_border=true)
+### **Contribution Graph**
+![Shubham's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamjais04&theme=react-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjais04&layout=compact&theme=radical&hide_border=true)
-
-## 🏆 **GitHub Streak**
-![GitHub Streak](https://streak-stats.demolab.com?user=shubhamjais04&theme=radical&hide_border=true)
+### **Contribution Stats**
+- **Public Repositories:** 2
+- **Recent Activity:** 4 commits in February 2026
+- **Focus Areas:** Machine Learning, Data Science, Python
 
 ---
 
-## 📫 **Let's Connect**
-- 💼 LinkedIn: [shubhamjaiswal2004](https://www.linkedin.com/in/shubhamjaiswal2004/)
-- 📧 Email: shubhjais.in@gmail.com
+## 📫 **Connect With Me**
 
-![Profile Views](https://komarev.com/ghpvc/?username=shubhamjais04&color=blue&style=flat)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubhamjaiswal2004/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamjaiswal2004" height="30" width="40" />
+  </a>
+  <a href="mailto:shubhjais.in@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -56,17 +68,8 @@ Working on new Data Science projects! Stay tuned.
 
 ⚡ *"Turning data into insights, one model at a time."*
 
-<!--
-**shubhamjais04/shubhamjais04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=shubhamjais04&label=Profile+Views&color=blue&style=flat" alt="profile views" />
+</p>
