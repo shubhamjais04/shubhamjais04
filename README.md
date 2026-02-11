@@ -4,7 +4,7 @@
 
 📍 Varanasi, India  
 📧 shubhjais.in@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shubhamjaiswal2004/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/shubhamjaiswal2004/)
 
 ---
 
@@ -31,21 +31,28 @@ Working on new Data Science projects! Stay tuned.
 ---
 
 ## 📈 **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamjais04&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjais04&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamjais04&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjais04&layout=compact&theme=radical&hide_border=true)
+
+## 🏆 **GitHub Streak**
+![GitHub Streak](https://streak-stats.demolab.com?user=shubhamjais04&theme=radical&hide_border=true)
 
 ---
 
 ## 📫 **Let's Connect**
 - 💼 LinkedIn: [shubhamjaiswal2004](https://www.linkedin.com/in/shubhamjaiswal2004/)
 - 📧 Email: shubhjais.in@gmail.com
+
+![Profile Views](https://komarev.com/ghpvc/?username=shubhamjais04&color=blue&style=flat)
+
 ---
 
 ## 🎯 **Currently Learning**
 - Advanced Machine Learning Algorithms
+- Mathematics for ML
 - Big Data Technologies
-- Cloud Platforms (AWS/GCP)
 
 ⚡ *"Turning data into insights, one model at a time."*
 
