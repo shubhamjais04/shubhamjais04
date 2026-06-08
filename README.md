@@ -105,7 +105,7 @@ Production-ready deployment with Streamlit dashboards, FastAPI REST endpoints, M
 <tr>
 <td>
 
-**🏢 Data Science & Analytics Intern**
+**🏢 Data Science & Analytics Intern,** 
 **Amdox Technologies** &nbsp;|&nbsp; `Apr 2026 – Present` &nbsp;|&nbsp; Remote
 
 Built 3 production-grade AI platforms — NeuralRetail (sales intelligence), Financial Fraud Detection System (284K transactions), and MediSense AI (medical diagnosis). Full ML pipelines with Streamlit dashboards, FastAPI, MLflow, and Evidently drift detection.
@@ -115,7 +115,7 @@ Built 3 production-grade AI platforms — NeuralRetail (sales intelligence), Fin
 <tr>
 <td>
 
-**🏢 Data Science Intern**
+**🏢 Data Science Intern,**
 **Cognifyz Technologies** &nbsp;|&nbsp; `Mar 2026 – Apr 2026` &nbsp;|&nbsp; Remote
 
 Restaurant dataset analysis across 9,551 records, 15 countries, 146 cuisines. EDA, descriptive statistics, geospatial visualization, feature engineering, and price range analytics.
@@ -125,7 +125,7 @@ Restaurant dataset analysis across 9,551 records, 15 countries, 146 cuisines. ED
 <tr>
 <td>
 
-**🏢 Data Science & Machine Learning Intern**
+**🏢 Data Science & Machine Learning Intern,**
 **Soft Nexis Technology** &nbsp;|&nbsp; `Mar 2026 – Apr 2026` &nbsp;|&nbsp; Remote
 
 Three-task internship — data cleaning pipeline (1,000 records), ARIMA(2,1,1) time series forecasting (RMSE 21.17), and A/B testing with Z-test and Chi-square on 294,000-row e-commerce dataset.
@@ -135,7 +135,7 @@ Three-task internship — data cleaning pipeline (1,000 records), ARIMA(2,1,1) t
 <tr>
 <td>
 
-**🏢 AI & Machine Learning Intern**
+**🏢 AI & Machine Learning Intern,**
 **TECHTERN** &nbsp;|&nbsp; `Feb 2026 – Mar 2026` &nbsp;|&nbsp; Remote
 
 Built an NLP-based retrieval chatbot using TF-IDF vectorization and Cosine Similarity, covering Python, ML, Deep Learning, and AI domain Q&A.
