@@ -3,7 +3,7 @@
 <h1>Hi, I'm Shubham Jaiswal 👋</h1>
 
 <p>
-<a href="https://www.linkedin.com/in/shubhjais04"><img src="https://img.shields.io/badge/LinkedIn-shubhamjais04-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shubhjais04"><img src="https://img.shields.io/badge/LinkedIn-shubhjais04-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shubhjais.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhjais.in@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/shubhamjais04"><img src="https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -189,7 +189,7 @@ If you have an opportunity, a project to collaborate on, or just want to connect
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamjais04-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhjais04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhjais04-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhjais04)
 [![Gmail](https://img.shields.io/badge/Gmail-shubhjais.in@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhjais.in@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamjais04)
 
