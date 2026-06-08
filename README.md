@@ -21,7 +21,7 @@
 ---
 
 
-## 🧠 About Me
+## 🧠 About Me  
 
 I'm a Data Science & ML Engineer with hands-on experience building end-to-end AI systems — from raw data ingestion to deployed, production-ready applications. I've completed **4 internships** across data science, machine learning, and analytics roles, building real-world platforms that combine predictive modeling, SQL analytics, deep learning, and interactive dashboards.
 
