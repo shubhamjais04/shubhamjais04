@@ -2,22 +2,24 @@
 
 <h1>Hi, I'm Shubham Jaiswal 👋</h1>
 
-<p><em>Data Science & ML Engineer &nbsp;|&nbsp; Building End-to-End AI Systems &nbsp;|&nbsp; Open to Full-Time Roles</em></p>
+<p>
+<a href="https://www.linkedin.com/in/shubhjais04"><img src="https://img.shields.io/badge/LinkedIn-shubhamjais04-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shubhjais.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhjais.in@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/shubhamjais04"><img src="https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-![Location](https://img.shields.io/badge/Location-Varanasi%2C%20India-blue?style=for-the-badge&logo=googlemaps)
-![Experience](https://img.shields.io/badge/Experience-4%20Internships-orange?style=for-the-badge)
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Full--Time%20Roles-brightgreen?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Data+Science+%26+ML+Engineer;Predictive+Modeling+%7C+Deep+Learning;SQL+Analytics+%7C+MLOps+%7C+Deployment;Building+AI+Systems+That+Actually+Work)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamjais04-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubhjais04)
-[![Gmail](https://img.shields.io/badge/Gmail-shubhjais.in@gmail.com-D14836?style=flat&logo=gmail)](mailto:shubhjais.in@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=flat&logo=github)](https://github.com/shubhamjais04)
+![Location](https://img.shields.io/badge/📍%20Location-Varanasi%2C%20India-blue?style=for-the-badge)
+![Experience](https://img.shields.io/badge/💼%20Experience-4%20Internships-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/🚀%20Status-Open%20to%20Full--Time%20Roles-brightgreen?style=for-the-badge)
 
 </div>
 
 ---
----
+
 
 ## 🧠 About Me
 
@@ -101,41 +103,41 @@ Production-ready deployment with Streamlit dashboards, FastAPI REST endpoints, M
 
 <table>
 <tr>
-<td width="60px" align="center">🏢</td>
 <td>
 
-**Data Science & Analytics Intern** — Amdox Technologies
-`Apr 2026 – Present` | Remote
+**🏢 Data Science & Analytics Intern**
+**Amdox Technologies** &nbsp;|&nbsp; `Apr 2026 – Present` &nbsp;|&nbsp; Remote
+
 Built 3 production-grade AI platforms — NeuralRetail (sales intelligence), Financial Fraud Detection System (284K transactions), and MediSense AI (medical diagnosis). Full ML pipelines with Streamlit dashboards, FastAPI, MLflow, and Evidently drift detection.
 
 </td>
 </tr>
 <tr>
-<td width="60px" align="center">🏢</td>
 <td>
 
-**Data Science Intern** — Cognifyz Technologies
-`Mar 2026 – Apr 2026` | Remote
+**🏢 Data Science Intern**
+**Cognifyz Technologies** &nbsp;|&nbsp; `Mar 2026 – Apr 2026` &nbsp;|&nbsp; Remote
+
 Restaurant dataset analysis across 9,551 records, 15 countries, 146 cuisines. EDA, descriptive statistics, geospatial visualization, feature engineering, and price range analytics.
 
 </td>
 </tr>
 <tr>
-<td width="60px" align="center">🏢</td>
 <td>
 
-**Data Science & Machine Learning Intern** — Soft Nexis Technology
-`Mar 2026 – Apr 2026` | Remote
+**🏢 Data Science & Machine Learning Intern**
+**Soft Nexis Technology** &nbsp;|&nbsp; `Mar 2026 – Apr 2026` &nbsp;|&nbsp; Remote
+
 Three-task internship — data cleaning pipeline (1,000 records), ARIMA(2,1,1) time series forecasting (RMSE 21.17), and A/B testing with Z-test and Chi-square on 294,000-row e-commerce dataset.
 
 </td>
 </tr>
 <tr>
-<td width="60px" align="center">🏢</td>
 <td>
 
-**AI & Machine Learning Intern** — TECHTERN
-`Feb 2026 – Mar 2026` | Remote
+**🏢 AI & Machine Learning Intern**
+**TECHTERN** &nbsp;|&nbsp; `Feb 2026 – Mar 2026` &nbsp;|&nbsp; Remote
+
 Built an NLP-based retrieval chatbot using TF-IDF vectorization and Cosine Similarity, covering Python, ML, Deep Learning, and AI domain Q&A.
 
 </td>
@@ -150,10 +152,10 @@ Built an NLP-based retrieval chatbot using TF-IDF vectorization and Cosine Simil
 
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
-| [💰 LoanSight AI](https://github.com/shubhamjais04/LoanSight-AI) | Bank loan default risk platform — SQL analytics + XGBoost (91.50% acc, 0.7222 AUC) on Home Credit dataset | Python, XGBoost, SQL, SQLite, Streamlit | [![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit)](https://loansight-ai.streamlit.app) |
-| [🏥 MediSense AI](https://github.com/shubhamjais04/MediSense) | AI medical diagnosis — SVC 99.72% CV accuracy, 41 diseases, 132 symptoms, PDF reports, explainable AI | Python, SVC, Streamlit, SQLite | [![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit)](https://medisense-app.streamlit.app) |
-| [💳 Financial Fraud Detection](https://github.com/shubhamjais04/Financial-Fraud-Detection) | Fraud detection on 284,807 transactions — Random Forest 99.90% accuracy, 0.9829 AUC, SMOTE | Python, Random Forest, XGBoost, Streamlit | [![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit)](https://fraud-detection-amdox.streamlit.app) |
-| [🛍️ NeuralRetail](https://github.com/shubhamjais04/NeuralRetail) | AI sales intelligence — churn prediction, demand forecasting, RFM segmentation, MLflow, FastAPI | Python, XGBoost, Streamlit, FastAPI, MLflow | [![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit)](https://neuralretail-amdox.streamlit.app) |
+| [💰 LoanSight AI](https://github.com/shubhamjais04/LoanSight-AI) | Bank loan default risk platform — SQL analytics + XGBoost (91.50% acc, 0.7222 AUC) on Home Credit dataset | Python, XGBoost, SQL, SQLite, Streamlit | [![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://loansight-ai.streamlit.app) |
+| [🏥 MediSense AI](https://github.com/shubhamjais04/MediSense) | AI medical diagnosis — SVC 99.72% CV accuracy, 41 diseases, 132 symptoms, PDF reports, explainable AI | Python, SVC, Streamlit, SQLite | [![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://medisense-app.streamlit.app) |
+| [💳 Financial Fraud Detection](https://github.com/shubhamjais04/Financial-Fraud-Detection) | Fraud detection on 284,807 transactions — Random Forest 99.90% accuracy, 0.9829 AUC, SMOTE | Python, Random Forest, XGBoost, Streamlit | [![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://fraud-detection-amdox.streamlit.app) |
+| [🛍️ NeuralRetail](https://github.com/shubhamjais04/NeuralRetail) | AI sales intelligence — churn prediction, demand forecasting, RFM segmentation, MLflow, FastAPI | Python, XGBoost, Streamlit, FastAPI, MLflow | [![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://neuralretail-amdox.streamlit.app) |
 
 ### 📁 Portfolio Projects
 
@@ -161,8 +163,8 @@ Built an NLP-based retrieval chatbot using TF-IDF vectorization and Cosine Simil
 |---------|-------------|------|
 | [🏠 HOUSEWISE](https://github.com/shubhamjais04/HOUSEWISE) | Real estate price predictor — Random Forest on 21,613 King County transactions, Gradio web interface | Python, Random Forest, Gradio, Scikit-learn |
 | [🎬 Movie Recommendation System](https://github.com/shubhamjais04/Movie-Recommendation-System) | Content-based recommender — TF-IDF + Cosine Similarity on 100K+ ratings across 9,700+ movies | Python, NLP, Scikit-learn, Pandas |
-| [🚗 Car Price Prediction](https://github.com/shubhamjais04/Car-Price-Prediction) | Used car price predictor — Random Forest 92% accuracy on Indian market data | Python, Random Forest, Scikit-learn |
 | [📉 Customer Churn Analysis](https://github.com/shubhamjais04/Customer-Churn-Analysis) | Telco churn EDA — 7,043 customers, contract type impact, key business insights | Python, Pandas, Matplotlib, Seaborn |
+| [🚗 Car Price Prediction](https://github.com/shubhamjais04/Car-Price-Prediction) | Used car price predictor — Random Forest 92% accuracy on Indian market data | Python, Random Forest, Scikit-learn |
 
 ---
 
@@ -179,13 +181,23 @@ Built an NLP-based retrieval chatbot using TF-IDF vectorization and Cosine Simil
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **Data Science**, **Data Analyst**, and **ML Engineer** roles. If you have an opportunity or just want to connect — reach out!
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamjais04-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhjais04)
-[![Gmail](https://img.shields.io/badge/Gmail-shubhjais.in@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:shubhjais.in@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=for-the-badge&logo=github)](https://github.com/shubhamjais04)
+### Open to Data Science • Data Analyst • ML Engineer Roles
+
+If you have an opportunity, a project to collaborate on, or just want to connect — I'd love to hear from you.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamjais04-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhjais04)
+[![Gmail](https://img.shields.io/badge/Gmail-shubhjais.in@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhjais.in@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamjais04)
+
+<br>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=100&section=footer"/>
 
 </div>
 
