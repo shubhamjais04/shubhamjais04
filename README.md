@@ -8,7 +8,7 @@
 <a href="https://github.com/shubhamjais04"><img src="https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Data+Science+%26+ML+Engineer;Predictive+Modeling+%7C+Deep+Learning;SQL+Analytics+%7C+MLOps+%7C+Deployment;Building+AI+Systems+That+Actually+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Data+Science+%26+ML+Engineer;Predictive+Modeling+%7C+Deep+Learning;SQL+Analytics+%7C+MLOps+%7C+Deployment;Building+AI+Systems+That+Actually+Work)](https://git.io/typing-svg)
 
 <br>
 
