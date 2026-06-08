@@ -1,31 +1,61 @@
-<h1 align="center">Hi, I'm Shubham Jaiswal 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning;Python+Developer;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
+# Hi, I'm Shubham Jaiswal 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Varanasi%2C_India-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Degree-B.Sc._Data_Science_(6th_Sem)-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-orange?style=flat-square" />
-</p>
+### Turning Raw Data into Real-World Intelligence
 
-<p align="center">
-  <a href="mailto:shubhjais.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhjais.in%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shubhjais04/"><img src="https://img.shields.io/badge/LinkedIn-Shubham%20Jaiswal-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shubhamjais04"><img src="https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Predictive+Modeling+%7C+Deep+Learning;SQL+Analytics+%7C+MLOps+%7C+Deployment;Building+AI+Systems+That+Actually+Work)](https://git.io/typing-svg)
+
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Full--Time%20Roles-brightgreen?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Varanasi%2C%20India-blue?style=for-the-badge&logo=googlemaps)
+![Experience](https://img.shields.io/badge/Experience-4%20Internships-orange?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-I'm a Data Science student with a strong foundation in machine learning, deep learning, and the mathematics behind AI. I enjoy building end-to-end ML projects — from raw data exploration to building predictive models. I'm deeply interested in how data can be used to solve real-world problems, and I'm constantly upskilling to stay ahead in the AI space.
+I'm a Data Science & ML Engineer with hands-on experience building end-to-end AI systems — from raw data ingestion to deployed, production-ready applications. I've completed **4 internships** across data science, machine learning, and analytics roles, building real-world platforms that combine predictive modeling, SQL analytics, deep learning, and interactive dashboards.
 
-- 🔭 Currently building: **End-to-end ML & Deep Learning projects**
-- 🌱 Learning: **CNNs, Sequence Models, NLP, Advanced ML Algorithms**
-- 💬 Ask me about: **Machine Learning, Deep Learning, Python, EDA**
-- 📫 Reach me at: [shubhjais.in@gmail.com](mailto:shubhjais.in@gmail.com)
+My work spans **fraud detection**, **medical diagnosis AI**, **sales intelligence platforms**, and **credit risk analytics** — each project covering the full ML lifecycle: EDA → Feature Engineering → Model Training → Evaluation → Deployment.
+
+I hold the **Deep Learning Specialization** from DeepLearning.AI (5 courses) and have strong foundations in the mathematics behind ML through 2 additional specializations from DeepLearning.AI and Imperial College London.
+
+---
+
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Machine Learning & Predictive Modeling
+End-to-end ML pipelines — EDA, feature engineering, model training, hyperparameter tuning, evaluation, and deployment. XGBoost, Random Forest, SVC across classification and regression tasks.
+
+</td>
+<td width="50%">
+
+### 🗄️ Data Analytics & SQL
+Business intelligence through structured SQL queries — SQLite-powered analytics, portfolio analysis, customer segmentation, and data-driven insight generation from large datasets.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧬 Deep Learning & NLP
+Neural network architectures, CNNs, RNNs, sequence models, and NLP pipelines — TF-IDF vectorization, cosine similarity, text preprocessing, and language model fundamentals via DeepLearning.AI specialization.
+
+</td>
+<td width="50%">
+
+### 🚀 MLOps & Deployment
+Production-ready deployment with Streamlit dashboards, FastAPI REST endpoints, MLflow experiment tracking, Evidently drift detection, SQLite backends, and Joblib model persistence.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -33,32 +63,101 @@ I'm a Data Science student with a strong foundation in machine learning, deep le
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Data Science & ML**
+**Machine Learning & Data Science**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Deployment & MLOps**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="60px" align="center">🏢</td>
+<td>
+
+**Data Science & Analytics Intern** — Amdox Technologies
+`Apr 2026 – Present` | Remote
+Built 3 production-grade AI platforms — NeuralRetail (sales intelligence), Financial Fraud Detection System (284K transactions), and MediSense AI (medical diagnosis). Full ML pipelines with Streamlit dashboards, FastAPI, MLflow, and Evidently drift detection.
+
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">🏢</td>
+<td>
+
+**Data Science Intern** — Cognifyz Technologies
+`Mar 2026 – Apr 2026` | Remote
+Restaurant dataset analysis across 9,551 records, 15 countries, 146 cuisines. EDA, descriptive statistics, geospatial visualization, feature engineering, and price range analytics.
+
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">🏢</td>
+<td>
+
+**Data Science & Machine Learning Intern** — Soft Nexis Technology
+`Mar 2026 – Apr 2026` | Remote
+Three-task internship — data cleaning pipeline (1,000 records), ARIMA(2,1,1) time series forecasting (RMSE 21.17), and A/B testing with Z-test and Chi-square on 294,000-row e-commerce dataset.
+
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">🏢</td>
+<td>
+
+**AI & Machine Learning Intern** — TECHTERN
+`Feb 2026 – Mar 2026` | Remote
+Built an NLP-based retrieval chatbot using TF-IDF vectorization and Cosine Similarity, covering Python, ML, Deep Learning, and AI domain Q&A.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🔥 Industry-Level Projects
+
+| Project | Description | Tech | Live |
+|---------|-------------|------|------|
+| [💰 LoanSight AI](https://github.com/shubhamjais04/LoanSight-AI) | Bank loan default risk platform — SQL analytics + XGBoost (91.50% acc, 0.7222 AUC) on Home Credit dataset | Python, XGBoost, SQL, SQLite, Streamlit | [![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit)](https://loansight-ai.streamlit.app) |
+| [🏥 MediSense AI](https://github.com/shubhamjais04/MediSense) | AI medical diagnosis — SVC 99.72% CV accuracy, 41 diseases, 132 symptoms, PDF reports, explainable AI | Python, SVC, Streamlit, SQLite | [![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit)](https://medisense-app.streamlit.app) |
+| [💳 Financial Fraud Detection](https://github.com/shubhamjais04/Financial-Fraud-Detection) | Fraud detection on 284,807 transactions — Random Forest 99.90% accuracy, 0.9829 AUC, SMOTE | Python, Random Forest, XGBoost, Streamlit | [![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit)](https://fraud-detection-amdox.streamlit.app) |
+| [🛍️ NeuralRetail](https://github.com/shubhamjais04/NeuralRetail) | AI sales intelligence — churn prediction, demand forecasting, RFM segmentation, MLflow, FastAPI | Python, XGBoost, Streamlit, FastAPI, MLflow | [![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat&logo=streamlit)](https://neuralretail-amdox.streamlit.app) |
+
+### 📁 Portfolio Projects
+
 | Project | Description | Tech |
-|--------|-------------|------|
-| 🏠 [**HOUSEWISE**](https://github.com/shubhamjais04/HOUSEWISE) | House price prediction using regression models with full EDA pipeline | Python, Scikit-learn, Pandas |
-| 🚗 [**Car Price Prediction**](https://github.com/shubhamjais04/Car-Price-Prediction) | Forecasts car prices based on features, condition & historical data | Python, ML, EDA |
-| 🎬 [**Movie Recommendation System**](https://github.com/shubhamjais04/Movie-Recommendation-System) | Content-based recommender using genre similarity and user ratings | Python, NLP, Cosine Similarity |
-| 📉 [**Customer Churn Analysis**](https://github.com/shubhamjais04/Customer-Churn-Analysis) | In-depth EDA on telecom churn data to identify key dropout patterns | Python, Pandas, Matplotlib |
+|---------|-------------|------|
+| [🏠 HOUSEWISE](https://github.com/shubhamjais04/HOUSEWISE) | Real estate price predictor — Random Forest on 21,613 King County transactions, Gradio web interface | Python, Random Forest, Gradio, Scikit-learn |
+| [🎬 Movie Recommendation System](https://github.com/shubhamjais04/Movie-Recommendation-System) | Content-based recommender — TF-IDF + Cosine Similarity on 100K+ ratings across 9,700+ movies | Python, NLP, Scikit-learn, Pandas |
+| [🚗 Car Price Prediction](https://github.com/shubhamjais04/Car-Price-Prediction) | Used car price predictor — Random Forest 92% accuracy on Indian market data | Python, Random Forest, Scikit-learn |
+| [📉 Customer Churn Analysis](https://github.com/shubhamjais04/Customer-Churn-Analysis) | Telco churn EDA — 7,043 customers, contract type impact, key business insights | Python, Pandas, Matplotlib, Seaborn |
 
 ---
 
@@ -66,18 +165,29 @@ I'm a Data Science student with a strong foundation in machine learning, deep le
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
-| 🧠 [Deep Learning Specialization](https://coursera.org/verify/specialization/QXJ6757BLUHE) *(5 Courses)* | DeepLearning.AI | Feb 2026 |
-| ➗ [Mathematics for ML & Data Science](https://coursera.org/verify/specialization/960VPEKK0FO3) *(3 Courses)* | DeepLearning.AI | Dec 2025 |
-| 📐 [Mathematics for Machine Learning](https://coursera.org/verify/specialization/W5NTTSKM0TCO) *(3 Courses)* | Imperial College London | Nov 2025 |
-| 📊 Microsoft Data Analytics 101 | Microsoft | Feb 2026 |
+| [🧠 Deep Learning Specialization (5 Courses)](https://www.coursera.org) | DeepLearning.AI | Feb 2026 |
+| [📋 Microsoft Data Analytics 101](https://www.microsoft.com) | Microsoft | Feb 2026 |
+| [📐 Mathematics for ML & Data Science (3 Courses)](https://www.coursera.org) | DeepLearning.AI | Dec 2025 |
+| [📊 Mathematics for Machine Learning (3 Courses)](https://www.coursera.org) | Imperial College London | Nov 2025 |
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on interesting ML/Data Science projects, discussing ideas, or just connecting with like-minded people.
+I'm actively looking for **Data Science**, **Data Analyst**, and **ML Engineer** roles. If you have an opportunity or just want to connect — reach out!
 
-<p align="left">
-  <a href="mailto:shubhjais.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shubhjais04/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shubhamjais04"><i
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamjais04-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhjais04)
+[![Gmail](https://img.shields.io/badge/Gmail-shubhjais.in@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:shubhjais.in@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=for-the-badge&logo=github)](https://github.com/shubhamjais04)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Data is not just numbers — it's the story of every decision waiting to be made."*
+
+</div>
