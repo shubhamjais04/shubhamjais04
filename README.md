@@ -1,17 +1,22 @@
 <div align="center">
 
-# Hi, I'm Shubham Jaiswal 👋
+<h1>Hi, I'm Shubham Jaiswal 👋</h1>
 
-### Turning Raw Data into Real-World Intelligence
+<p><em>Data Science & ML Engineer &nbsp;|&nbsp; Building End-to-End AI Systems &nbsp;|&nbsp; Open to Full-Time Roles</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Data+Science+%26+ML+Engineer;Predictive+Modeling+%7C+Deep+Learning;SQL+Analytics+%7C+MLOps+%7C+Deployment;Building+AI+Systems+That+Actually+Work)](https://git.io/typing-svg)
-
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Full--Time%20Roles-brightgreen?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Varanasi%2C%20India-blue?style=for-the-badge&logo=googlemaps)
 ![Experience](https://img.shields.io/badge/Experience-4%20Internships-orange?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Full--Time%20Roles-brightgreen?style=for-the-badge)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamjais04-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubhjais04)
+[![Gmail](https://img.shields.io/badge/Gmail-shubhjais.in@gmail.com-D14836?style=flat&logo=gmail)](mailto:shubhjais.in@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shubhamjais04-181717?style=flat&logo=github)](https://github.com/shubhamjais04)
 
 </div>
 
+---
 ---
 
 ## 🧠 About Me
@@ -165,10 +170,10 @@ Built an NLP-based retrieval chatbot using TF-IDF vectorization and Cosine Simil
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
-| [🧠 Deep Learning Specialization (5 Courses)](https://www.coursera.org) | DeepLearning.AI | Feb 2026 |
-| [📋 Microsoft Data Analytics 101](https://www.microsoft.com) | Microsoft | Feb 2026 |
-| [📐 Mathematics for ML & Data Science (3 Courses)](https://www.coursera.org) | DeepLearning.AI | Dec 2025 |
-| [📊 Mathematics for Machine Learning (3 Courses)](https://www.coursera.org) | Imperial College London | Nov 2025 |
+| [🧠 Deep Learning Specialization (5 Courses)](https://www.coursera.org/account/accomplishments/specialization/QXJ6757BLUHE) | DeepLearning.AI | Feb 2026 |
+| [📋 Microsoft Data Analytics 101](https://simpli-web.app.link/e/1xj1oVMYG0b) | Microsoft | Feb 2026 |
+| [📐 Mathematics for ML & Data Science (3 Courses)](https://www.coursera.org/account/accomplishments/specialization/960VPEKK0FO3) | DeepLearning.AI | Dec 2025 |
+| [📊 Mathematics for Machine Learning (3 Courses)](https://www.coursera.org/account/accomplishments/specialization/W5NTTSKM0TCO) | Imperial College London | Nov 2025 |
 
 ---
 
