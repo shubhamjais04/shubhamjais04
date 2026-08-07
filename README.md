@@ -106,7 +106,7 @@ Production-ready deployment with Streamlit dashboards, FastAPI REST endpoints, M
 <td>
 
 **🏢 Data Science & Analytics Intern,** 
-**Amdox Technologies** &nbsp;|&nbsp; `Apr 2026 – Present` &nbsp;|&nbsp; Remote
+**Amdox Technologies** &nbsp;|&nbsp; `Apr 2026 – Jul 2026` &nbsp;|&nbsp; Remote
 
 Built 3 production-grade AI platforms — NeuralRetail (sales intelligence), Financial Fraud Detection System (284K transactions), and MediSense AI (medical diagnosis). Full ML pipelines with Streamlit dashboards, FastAPI, MLflow, and Evidently drift detection.
 
