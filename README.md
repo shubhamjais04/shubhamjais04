@@ -12,7 +12,7 @@
 
 <br>
 
-![Location](https://img.shields.io/badge/📍%20Location-Varanasi%2C%20India-blue?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍%20Location-Noida%2C%20India-blue?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/💼%20Experience-4%20Internships-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/🚀%20Status-Open%20to%20Full--Time%20Roles-brightgreen?style=for-the-badge)
 
